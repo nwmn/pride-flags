@@ -1,4 +1,4 @@
-<!-- Aspect Ratio is 16:9 for viewing on desktop" -->
+<!-- aspect ratio is currently set as 16:9 for viewing on desktop" -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 72">
   	<rect fill="#750787" width="144" height="72"/>
 	<rect fill="#004dff" width="144" height="63"/>
