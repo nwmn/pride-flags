@@ -24,14 +24,13 @@ SOFTWARE.
 
 -->
 
-<!-- aspect ratio set as 16:9 for desktop viewing" -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 72">
-  	<rect fill="#750787" width="144" height="72"/>
-	<rect fill="#004dff" width="144" height="63"/>
-	<rect fill="#008026" width="144" height="54"/>
-	<rect fill="#ffed00" width="144" height="45"/>
-	<rect fill="#ff8c00" width="144" height="36"/>
-	<rect fill="#e40303" width="144" height="27"/>
-  	<rect fill="#4F4137" width="144" height="18"/>
-	<rect fill="#000000" width="144" height="9"/>
+  	<rect fill="#750787" width="144" height="72"/><!-- 16:9 -->
+	<rect fill="#004dff" width="144" height="63"/><!-- 16:9 -->
+	<rect fill="#008026" width="144" height="54"/><!-- 16:9 -->
+	<rect fill="#ffed00" width="144" height="45"/><!-- 16:9 -->
+	<rect fill="#ff8c00" width="144" height="36"/><!-- 16:9 -->
+	<rect fill="#e40303" width="144" height="27"/><!-- 16:9 -->
+  	<rect fill="#4F4137" width="144" height="18"/><!-- 16:9 -->
+	<rect fill="#000000" width="144" height="9"/><!-- 16:9 -->
 </svg>
