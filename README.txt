@@ -1,1 +1,1 @@
-Queer Pride Flags rendered in vector format. This collection is in progress, not comprehensive. Intended for displaying on web. Suitable for a range of screen sizes. All suggestions, feedback, and contributions welcome.
+Queer Pride Flags rendered in vector format. This collection is now in progress, not yet comprehensive. Intended for displaying on web. Suitable for a range of screen sizes. All suggestions, feedback, and contributions welcome.
