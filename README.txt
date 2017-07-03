@@ -1,1 +1,1 @@
-Queer Pride Flags rendered in vector format. Intended for displaying on web. Suitable for a range of screen sizes. All suggestions, feedback, and contributions welcome. Eventually, I hope for this repo to become a host for accessible vector based symbolism that is culturally important for people of marginalized experience.
+Queer Pride Flags rendered in vector format. Intended for displaying on web. Suitable for a range of screen sizes. All suggestions, feedback, and contributions welcome.
