@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Shrikhand');
+
 * {
   margin: 0;
   padding: 0;
@@ -5,7 +7,11 @@
 }
 
 h1 {
-text-align: center;
+  text-align: center;
+  font-family: "Shrikhand";
+  font-weight: normal;
+  font-size: 4em; 
+
 }
 
 
