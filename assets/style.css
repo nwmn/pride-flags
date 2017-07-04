@@ -6,17 +6,15 @@
   box-sizing: border-box;
 }
 
-h1 {
-  text-align: center;
-  font-family: "Shrikhand";
-  font-weight: normal;
-  font-size: 4em; 
-
+body {
+  letter-spacing: 5px; 
 }
 
-
-img {
-  display: block;
+h1 {
+  text-align: center;
+  font-family: "Shrikhand", sans-serif;
+  font-weight: normal;
+  font-size: 4em;
 }
 
 .col-12 {
@@ -25,6 +23,7 @@ img {
 
 .col-6 {
   width: 50%;
+  margin-left: 25%;
 }
 
 .column {
