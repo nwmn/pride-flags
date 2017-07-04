@@ -24,10 +24,8 @@ SOFTWARE.
 
 -->
 
-<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 45">
-  <rect width="144" height="45" fill="#5BCEFA"/><!-- 16:9 -->
-  <rect width="144" height="36" fill="#F5A9B8"/><!-- 16:9 -->
-  <rect width="144" height="27" fill="#FFFFFF"/><!-- 16:9 -->
-  <rect width="144" height="18" fill="#F5A9B8"/><!-- 16:9 -->
-  <rect width="144" height="9" fill="#5BCEFA"/><!-- 16:9 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 144 72">
+  <rect width="144" height="72" fill="#d70270"/>
+  <rect width="144" height="48" fill="#0038a8"/>
+  <rect width="144" height="24"  fill="#734f96"/>
 </svg>

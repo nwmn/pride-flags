@@ -24,19 +24,11 @@ SOFTWARE.
 
 -->
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 72">
-  <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-101884726-2', 'auto');
-  ga('send', 'pageview');</script>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 144 72">
   	<rect fill="#750787" width="144" height="72"/><!-- 16:9 -->
-	<rect fill="#004dff" width="144" height="63"/><!-- 16:9 -->
-	<rect fill="#008026" width="144" height="54"/><!-- 16:9 -->
-	<rect fill="#ffed00" width="144" height="45"/><!-- 16:9 -->
-	<rect fill="#ff8c00" width="144" height="36"/><!-- 16:9 -->
-	<rect fill="#e40303" width="144" height="27"/><!-- 16:9 -->
-  	<rect fill="#4F4137" width="144" height="18"/><!-- 16:9 -->
-	<rect fill="#000000" width="144" height="9"/><!-- 16:9 -->
+	<rect fill="#004dff" width="144" height="60"/><!-- 16:9 -->
+	<rect fill="#008026" width="144" height="48"/><!-- 16:9 -->
+	<rect fill="#ffed00" width="144" height="36"/><!-- 16:9 -->
+	<rect fill="#ff8c00" width="144" height="24"/><!-- 16:9 -->
+	<rect fill="#e40303" width="144" height="12"/><!-- 16:9 -->
 </svg>
