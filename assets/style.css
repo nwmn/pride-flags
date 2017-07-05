@@ -12,14 +12,18 @@ body {
   color: rgba(0, 0, 0, 0.5)
 }
 
+img {
+  border-radius: 5px;
+}
+
 h1 {
   text-align: center;
   font-family: "Fredoka One", sans-serif;
   font-weight: lighter;
   font-size: 4em;
   display: inline-block;
-  width: 50%;
-  margin-left: 25%;
+  width: 90%;
+  margin-left: 5%;
   margin-top: 30px;
 }
 
@@ -28,8 +32,8 @@ h1 {
 }
 
 .col-6 {
-  width: 50%;
-  margin-left: 25%;
+  width: 70%;
+  margin-left: 15%;
 }
 
 .column {
@@ -43,8 +47,34 @@ h1 {
 
 div {
   padding: 35px;
+  z-index: 5;
 }
 
 .row {
   padding: 0px;
+}
+
+
+@media screen and (max-width: 1600px) {
+  .col-6 {
+    width: 80%;
+    margin-left: 10%;
+  }
+
+  h1 {
+    font-size: 3em;
+  }
+}
+
+
+@media screen and (max-width: 1300px) {
+  h1 {
+    font-size: 2.75em;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  h1 {
+    font-size: 1.75em;
+  }
 }
