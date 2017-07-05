@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Shrikhand');
+@import url('https://fonts.googleapis.com/css?family=Shrikhand|Fredoka+One');
 
 * {
   margin: 0;
@@ -8,12 +8,12 @@
 
 body {
   letter-spacing: 5px;
-  background-color: #FDF3E7; 
+  background-color: #FDF3E7;
 }
 
 h1 {
   text-align: center;
-  font-family: "Shrikhand", sans-serif;
+  font-family: "Fredoka One", sans-serif;
   font-weight: normal;
   font-size: 4em;
 }
