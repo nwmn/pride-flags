@@ -9,13 +9,18 @@
 body {
   letter-spacing: 5px;
   background-color: #FDF3E7;
+  color: rgba(0, 0, 0, 0.5)
 }
 
 h1 {
   text-align: center;
   font-family: "Fredoka One", sans-serif;
-  font-weight: normal;
+  font-weight: lighter;
   font-size: 4em;
+  display: inline-block;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 30px;
 }
 
 .col-12 {
