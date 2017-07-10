@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Shrikhand|Fredoka+One');
+@import url('https://fonts.googleapis.com/css?family=Shrikhand|Fredoka+One|Raleway');
 
 * {
   margin: 0;
@@ -9,7 +9,69 @@
 body {
   letter-spacing: 5px;
   background-color: #FDF3E7;
-  color: rgba(0, 0, 0, 0.5)
+  color: rgba(0, 0, 0, 0.5);
+  font-family: "Fredoka One", sans-serif;
+  font-weight: lighter;
+}
+
+header {
+  background-color: rgba(0,0,0,0.3);
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  box-shadow: 0px 4px 4px rgba(0,0,0,0.1);
+}
+
+#about {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.25rem;
+  letter-spacing: 0px;
+  color: rgba(0,0,0,0.5);
+  background-color: rgba(0,0,0,0.1);
+  width: 100%;
+  border-top: 3px solid rgba(0,0,0,0.2);
+  border-bottom: 3px solid rgba(0,0,0,0.2);
+  box-shadow: 0px 3px 3px rgba(0,0,0,0.1);
+}
+
+.right {
+  letter-spacing: 0px;
+  position: fixed;
+  right: 0;
+  text-transform: uppercase;
+}
+
+header a {
+  color: rgba(255,255,255,0.5);
+  text-decoration: none;
+  padding-left: 30px;
+}
+
+header a:hover {
+  color: rgba(255,255,255,0.9);
+}
+
+header a:active {
+  color: rgba(0,0,0,0.5);
+}
+
+#about a {
+  color: rgba(255,255,255,0.7);
+  text-decoration: none;
+}
+
+#about a:hover {
+  color: rgba(255,255,255,1);
+  font-weight: bold;
+}
+
+#about a:active {
+  color: rgba(0,0,0,0.5);
 }
 
 img {
@@ -19,13 +81,19 @@ img {
 
 h1 {
   text-align: center;
-  font-family: "Fredoka One", sans-serif;
   font-weight: lighter;
   font-size: 4em;
   display: inline-block;
   width: 90%;
   margin-left: 5%;
-  margin-top: 30px;
+  margin-top: 70px;
+}
+
+p {
+  width: 60%;
+  margin: auto;
+  text-align: justify;
+  padding: 20px 0px;
 }
 
 .col-12 {
@@ -51,6 +119,10 @@ div {
   z-index: 5;
 }
 
+#aboutMe div {
+  padding: 0px;
+}
+
 .row {
   padding: 0px;
 }
@@ -71,6 +143,10 @@ div {
 @media screen and (max-width: 1300px) {
   h1 {
     font-size: 2.75em;
+  }
+
+  p {
+    width: 75%;
   }
 }
 
