@@ -25,7 +25,7 @@ SOFTWARE.
 -->
 
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 144 72">
-  <rect width="144" height="72" fill="#d70270"/>
-  <rect width="144" height="48" fill="#0038a8"/>
-  <rect width="144" height="24"  fill="#734f96"/>
+  <rect width="144" height="72" fill="#0038a8 "/>
+  <rect width="144" height="40.5" fill="#734f96 "/>
+  <rect width="144" height="31.5"  fill="#d70270"/>
 </svg>
