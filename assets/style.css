@@ -265,6 +265,7 @@ a.info:active {
   border-bottom: 3px solid rgba(0,0,0,0.2);
   text-align: center;
   text-decoration: none;
+  margin-bottom: 80px; 
 }
 
 .button:hover {
