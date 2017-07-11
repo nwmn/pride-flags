@@ -24,7 +24,9 @@ header {
   right: 0;
   left: 0;
   height: 50px;
+  display: -webkit-flex;
   display: flex;
+  -webkit-flex-direction: row;
   flex-direction: row;
   align-items: center;
   box-shadow: 0px 4px 4px rgba(0,0,0,0.1);
@@ -53,6 +55,7 @@ header a {
   color: rgba(255,255,255,0.5);
   text-decoration: none;
   padding-left: 30px;
+  display: inline-block;
 }
 
 header a:hover {
