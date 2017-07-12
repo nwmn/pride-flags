@@ -197,6 +197,12 @@ div {
 
 .container h2 {text-transform: uppercase;}
 
+.titles {
+	display: block;
+	float: left;
+	letter-spacing: 0px;
+}
+
 .center {
   text-align: center;
   font-size: 1.5rem;
@@ -282,7 +288,8 @@ a.info:active {
 	text-align: center;
 	margin-bottom: 30px;
 	font-weight: bold;
-	text-shadow: 2px 3px rgba(0,0,0,0.1)
+	text-shadow: 2px 3px rgba(0,0,0,0.1);
+	letter-spacing: 0px;
 }
 
 
