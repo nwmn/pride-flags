@@ -1,5 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 144 72">
+      <defs>
+      <style type="text/css">
+        @import url('https://fonts.googleapis.com/css?family=Kanit:800');
+        text {
+          fill: #FFF;
+          font-family: "Kanit", "Impact", sans-serif;
+        }
+      </style>
+    </defs>
     <rect x="0" y="0" width="144" height="72" fill="#000"></rect>
-    <polygon fill="#F25D95" points="48,40 72,12 96,40"> </polygon>
-    <text x="72" y="50" font-family="Impact" font-size="9" fill="#FFF" text-anchor="middle" letter-spacing="0.25">SILENCE &#61; DEATH</text>
+    <polygon fill="#F25D95" points="48,46 72,18 96,46"> </polygon>
+    <text x="72" y="55" font-size="9" text-anchor="middle" letter-spacing="0.25px">SILENCE &#61; DEATH</text>
 </svg>
