@@ -319,3 +319,9 @@ a.info:active {
     font-size: 1.75em;
   }
 }
+
+@media screen and (max-width: 500px) {
+  h1 {
+    font-size: 5vw;
+  }
+}
